@@ -1,11 +1,11 @@
 body {
     font: 14px "Century Gothic", Futura, sans-serif;
-    margin: 20px;
+    margin: 10px;
+}
+ol, ul {
+    padding-left: 10px;
 }
 
-ol, ul {
-    padding-left: 30px;
-}
 
 .board-row:after {
     clear: both;
